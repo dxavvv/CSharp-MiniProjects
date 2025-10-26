@@ -14,9 +14,10 @@ Each project is designed to be simple, useful, and complete in one day, making t
 - **21Game vs AI** - 21 Game, player vs AI.
 - **CaesarCipher** - a tool for encrypting and decrypting messages using the Caesar cipher.
 - **Vigenère Cipher** - a tool for encrypting and decrypting messages using the Vigenère cipher.
-- **Matrix Calculator** - addition and multiplication of matrices.
-- **Unit Converter**
+- **Matrix Calculator** - simple matrices calculations.
+- **Unit Converter** - unit convetion
 - *(more tools would be added here over time)*
+
 
 
 
