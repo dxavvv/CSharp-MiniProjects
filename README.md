@@ -16,7 +16,7 @@ Each project is designed to be simple, useful, and complete in one day, making t
 - **Vigenère Cipher** - a tool for encrypting and decrypting messages using the Vigenère cipher.
 - **Matrix Calculator** - simple matrices calculations.
 - **Unit Converter** - unit convetion
-- **Sudoku Solver**
+- **Sudoku Solver** - algorithm for solving sudoku puzzles
 - *(more tools would be added here over time)*
 
 
